@@ -38,7 +38,7 @@ made subject to such option by the copyright holder.
 
 Contributor(s):
 -->
-<project basedir="." default="netbeans" name="cnd.toolchain.ui">
+<project basedir="." default="build" name="cnd/cnd.toolchain.ui">
     <description>Builds, tests, and runs the project org.netbeans.modules.cnd.toolchain.ui</description>
-    <import file="../nbbuild/templates/projectized.xml"/>
+    <import file="../../nbbuild/templates/projectized.xml"/>
 </project>
