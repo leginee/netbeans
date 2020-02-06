@@ -43,7 +43,7 @@ However, if you add GPL Version 2 code and therefore, elected the GPL
 Version 2 license, then the option applies only if the new code is
 made subject to such option by the copyright holder.
 -->
-<project name="libs.dbx.support" default="netbeans" basedir=".">
-    <import file="../nbbuild/templates/projectized.xml"/>
+<project name="dlight/libs.dbx.support" default="build" basedir=".">
+    <import file="../../nbbuild/templates/projectized.xml"/>
 
 </project>
